@@ -2,7 +2,7 @@
 
 Open-source microsite for the World Cup 2026 bounded world model simulation.
 
-This repository is intentionally separate from the private `rawpaper123/nira` repository. It contains only the standalone public campaign page, scoped styles, and checked-in seed data needed to run the visual simulation locally.
+This repository is intentionally separate from the private `eonpaper123/nira` repository. It contains only the standalone public campaign page, scoped styles, and checked-in seed data needed to run the visual simulation locally.
 
 ## Run
 
